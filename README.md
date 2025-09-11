@@ -21,3 +21,11 @@
 
  [ hi word]("hi" "word")
  ###### ![https://dehashed.com/_next/static/media/github.7d050dd4.png](git "hub")
+ ```C
+ #includ<stdion>
+ int main(){
+ primit("hello world");
+return 0;
+}
+```
+ 
